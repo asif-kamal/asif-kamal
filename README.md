@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Information Science and Technology.
 - 💞️ I’m looking to collaborate on React-Redux projects.
-- 📫 How to reach me: email me @ asif.kamal1489@gmail.com
+- 📫 How to reach me: email me @asif.kamal1489@gmail.com
 
 <!---
 asif-kamal/asif-kamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
